@@ -1,3 +1,4 @@
+git clone https://github.com/fw876/helloworld package/openwrt-packages/helloworld
 #!/bin/bash
 #
 # Copyright (c) 2019-2020 P3TERX <https://p3terx.com>
